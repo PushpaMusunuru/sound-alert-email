@@ -9,7 +9,7 @@ THINGSPEAK_READ_KEY = "UK3SJS47MXQ82PAD"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_USERNAME =pushpalathamusunuru9@gmail.com
+SMTP_USERNAME ="pushpalathamusunuru9@gmail.com"
 SMTP_PASSWORD = "ntcw fjcu eyjt qhlq"
 FROM_EMAIL = "pushpalathamusunuru9@gmail.com"
 TO_EMAIL = "pushpalathamusunuru9@gmail.com"
