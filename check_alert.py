@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timezone, timedelta
 
-THINGSPEAK_CHANNEL_ID = "3150950"
-THINGSPEAK_READ_KEY = "WFITLCIZTJET2AGT"
+THINGSPEAK_CHANNEL_ID = "3150721"
+THINGSPEAK_READ_KEY = "UK3SJS47MXQ82PAD"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
